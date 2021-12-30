@@ -8,5 +8,5 @@ Saya adalah mahasiswa aktif Sarjana Terapan Teknik Informatika pada Politeknik E
 
 Sebelumnya, saya belajar di SMAN 1 KUDUS jurusan MIPA, dikarenakan saya belum memiliki pengalaman di bidang IT, Saya selalu mencoba mempelajari teknologi baru yang dapat membantu saya bertahan dan improve di bidang IT. Saya sangat tertarik pada bidang IT dan saya akan terus belajar agar dapat menunjang keahlian saya
 ## Statistik Github saya
-[![Github stats](https://github-readme-stats.vercel.app/api?username=milhamap&show_icons=true&include_all_commits=true)](https://github.com/milhamap/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milhamap&layout=compact)](https://github.com/milhamap/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=milhamap&theme=algolia&show_icons=true&include_all_commits=true)](https://github.com/milhamap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milhamap&theme=algolia&layout=compact)](https://github.com/milhamap/github-readme-stats)
